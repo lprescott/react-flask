@@ -26,10 +26,20 @@
 
   <!-- Add your site or application content here -->
   <p>Hello world! This is HTML5 react-flask Boilerplate.</p>
+  <div id="like_button_container"></div>
+
   <script src="{{ url_for('static', filename='js/vendor/modernizr-3.7.1.min.js')}} "></script>
   <script src="{{ url_for('static', filename='node_modules/jquery/dist/jquery.min.js')}}"></script>
   <script src="{{ url_for('static', filename='js/plugins.js')}}"></script>
   <script src="{{ url_for('static', filename='js/main.js')}}"></script>
+
+  <!-- Load React. -->
+  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+  <script src="{{ url_for('static', filename='node_modules/react/umd/react.development.js')}}"></script>
+  <script src="{{ url_for('static', filename='node_modules/react-dom/umd/react-dom.development.js')}}"></script>
+
+  <!-- Load our React component. -->
+  <script src="{{ url_for('static', filename='js/react-flask.js')}}"></script>
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <!--
