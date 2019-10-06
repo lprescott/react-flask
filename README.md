@@ -15,3 +15,4 @@ A boilerplate for my chosen web-stack.
 
 - [HTML5 Boilerplate 7.2.0](https://html5boilerplate.com/)
 - [gitignore.io](https://www.gitignore.io/)
+- [npm 6.11.3](https://www.npmjs.com/)

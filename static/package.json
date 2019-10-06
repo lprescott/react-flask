@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/lprescott/react-flask/issues"
   },
-  "homepage": "https://github.com/lprescott/react-flask#readme"
+  "homepage": "https://github.com/lprescott/react-flask#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
