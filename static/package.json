@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/lprescott/react-flask#readme",
   "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
     "jquery": "^3.4.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
