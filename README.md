@@ -1,6 +1,6 @@
 # react-flask
 
-A boilerplate for my chosen web-stack.
+A boilerplate for one of my chosen web-stacks.
 
 ## the stack (so far)
 
