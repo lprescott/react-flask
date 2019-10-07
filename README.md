@@ -20,6 +20,7 @@ A boilerplate for one of my chosen web-stacks.
 - [Babel](https://babeljs.io/)
 - [Webpack](https://webpack.js.org/)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React Developer Tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
