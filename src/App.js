@@ -1,8 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+
 import './css/main.css';
 import './css/normalize.css';
+
 import './js/main.js';
 import './js/plugins.js';
 
