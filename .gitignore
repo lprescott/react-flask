@@ -293,3 +293,4 @@ sketch
 
 # End of https://www.gitignore.io/api/git,node,react,flask,python,visualstudiocode
 
+.directory
