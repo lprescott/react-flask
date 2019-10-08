@@ -7,6 +7,7 @@ A boilerplate for one of my chosen web-stacks.
 - HTML5
 - [Javascript (ES6)](https://www.javascript.com/)
 - CSS3
+- [SASS](https://sass-lang.com/)
 - [JQuery 3.4.1](https://jquery.com/)
 - [Python 3.7.2](https://www.python.org/)
 - [Flask 1.1.1](http://flask.palletsprojects.com/en/1.1.x/)

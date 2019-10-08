@@ -1,9 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 
-import './css/main.css';
-import './css/normalize.css';
+import './css/main.scss';
+import './css/normalize.scss';
 
 import './js/main.js';
 import './js/plugins.js';
