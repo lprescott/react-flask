@@ -22,6 +22,8 @@ A boilerplate for one of my chosen web-stacks.
 - [Webpack](https://webpack.js.org/)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 - [React Developer Tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+- [Redux](https://redux.js.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
